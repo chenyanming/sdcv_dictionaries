@@ -1,0 +1,11 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=112867
+idxfilesize=2203929
+bookname=EDICT
+author=Jim Breen
+email=jwb@csse.monash.edu.au
+website=http://www.csse.monash.edu.au/~jwb/j_edict.html
+description=Made by Hu Zheng.
+date=2006.4.20
+sametypesequence=ym
